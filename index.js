@@ -1,14 +1,14 @@
 const mineflayer = require('mineflayer');
 
 // Define the bot's username and password
-const botUsername = 'Username'; // Your bot's username
+const botUsername = 'i m noob'; // Your bot's username
 const password = 'password';       // Your bot's password
 
 let bot = mineflayer.createBot({
-  host: 'SERVER IP', // Server IP
-  port: 19132,                    // Server port
+  host: 'SERVER IP',viratsmp.aternos.me // Server IP
+  port: 44995,                    // Server port
   username: botUsername,          // Bot's name (do not change here)
-  version: '1.16.4'               // Server version
+  version: '1.20.1'               // Server version
 });
 
 // Function to set up event listeners for the bot
